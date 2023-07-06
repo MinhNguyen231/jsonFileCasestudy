@@ -1,7 +1,7 @@
 [{
 	"ProductName": "Laptop1",
 	"GraphicName": "Graphic1",
-	"CostPrice": 1112.5.5,
+	"CostPrice": 1112.5,
 	"MSRP": 112.5,
 	"QtyOnHand": 5,
 	"QtyOnBackOrder": 30,
@@ -29,7 +29,7 @@
 }, {
 	"ProductName": "Laptop4",
 	"GraphicName": "Graphic4",
-	"CostPrice": 1112.5.5,
+	"CostPrice": 1112.5,
 	"MSRP": 112.5,
 	"QtyOnHand": 5,
 	"QtyOnBackOrder": 30,
@@ -38,7 +38,7 @@
 }, {
 	"ProductName": "Laptop5",
 	"GraphicName": "Graphic5",
-	"CostPrice": 1112.5.5,
+	"CostPrice": 1112.5,
 	"MSRP": 112.5,
 	"QtyOnHand": 5,
 	"QtyOnBackOrder": 30,
@@ -47,7 +47,7 @@
 }, {
 	"ProductName": "Laptop6",
 	"GraphicName": "Graphic6",
-	"CostPrice": 1112.5.5,
+	"CostPrice": 1112.5,
 	"MSRP": 112.5,
 	"QtyOnHand": 5,
 	"QtyOnBackOrder": 30,
@@ -56,7 +56,7 @@
 }, {
 	"ProductName": "Laptop7",
 	"GraphicName": "Graphic7",
-	"CostPrice": 1112.5.5,
+	"CostPrice": 1112.5,
 	"MSRP": 112.5,
 	"QtyOnHand": 5,
 	"QtyOnBackOrder": 30,
@@ -65,7 +65,7 @@
 }, {
 	"ProductName": "Laptop8",
 	"GraphicName": "Graphic8",
-	"CostPrice": 1112.5.5,
+	"CostPrice": 1112.5,
 	"MSRP": 112.5,
 	"QtyOnHand": 5,
 	"QtyOnBackOrder": 30,
@@ -74,7 +74,7 @@
 }, {
 	"ProductName": "Laptop9",
 	"GraphicName": "Graphic9",
-	"CostPrice": 1112.5.5,
+	"CostPrice": 1112.5,
 	"MSRP": 112.5,
 	"QtyOnHand": 5,
 	"QtyOnBackOrder": 30,
@@ -83,7 +83,7 @@
 }, {
 	"ProductName": "Laptop10",
 	"GraphicName": "Graphic10",
-	"CostPrice": 1112.5.5,
+	"CostPrice": 1112.5,
 	"MSRP": 112.5,
 	"QtyOnHand": 5,
 	"QtyOnBackOrder": 30,
@@ -92,7 +92,7 @@
 }, {
 	"ProductName": "Laptop11",
 	"GraphicName": "Graphic11",
-	"CostPrice": 1112.5.5,
+	"CostPrice": 1112.5,
 	"MSRP": 112.5,
 	"QtyOnHand": 5,
 	"QtyOnBackOrder": 30,
@@ -101,7 +101,7 @@
 }, {
 	"ProductName": "Laptop12",
 	"GraphicName": "Graphic12",
-	"CostPrice": 1112.5.5,
+	"CostPrice": 1112.5,
 	"MSRP": 112.5,
 	"QtyOnHand": 5,
 	"QtyOnBackOrder": 30,
@@ -110,7 +110,7 @@
 }, {
 	"ProductName": "Laptop13",
 	"GraphicName": "Graphic13",
-	"CostPrice": 1112.5.5,
+	"CostPrice": 1112.5,
 	"MSRP": 112.5,
 	"QtyOnHand": 5,
 	"QtyOnBackOrder": 30,
@@ -119,7 +119,7 @@
 }, {
 	"ProductName": "Laptop14",
 	"GraphicName": "Graphic14",
-	"CostPrice": 1112.5.5,
+	"CostPrice": 1112.5,
 	"MSRP": 112.5,
 	"QtyOnHand": 5,
 	"QtyOnBackOrder": 30,
@@ -128,7 +128,7 @@
 }, {
 	"ProductName": "Laptop15",
 	"GraphicName": "Graphic15",
-	"CostPrice": 1112.5.5,
+	"CostPrice": 1112.5,
 	"MSRP": 112.5,
 	"QtyOnHand": 5,
 	"QtyOnBackOrder": 30,
