@@ -1,6 +1,6 @@
 [{
 	"ProductName": "Laptop1",
-	"GraphicName": "Graphic1",
+	"GraphicName": "Graphic1.jpg",
 	"CostPrice": "1112.5",
 	"MSRP": "112.5",
 	"QtyOnHand": "5",
@@ -9,7 +9,7 @@
 	"Brand": "Asus"
 }, {
 	"ProductName": "Laptop2",
-	"GraphicName": "Graphic2",
+	"GraphicName": "Graphic2.jpg",
 	"CostPrice": "1112.5",
 	"MSRP": "212",
 	"QtyOnHand": "7",
@@ -19,7 +19,7 @@
 
 }, {
 	"ProductName": "Laptop3",
-	"GraphicName": "Graphic3",
+	"GraphicName": "Graphic3.jpg",
 	"CostPrice": "1112.5",
 	"MSRP": "212",
 	"QtyOnHand": "7",
@@ -28,7 +28,7 @@
 	"Brand": "Lenovo"
 }, {
 	"ProductName": "Laptop4",
-	"GraphicName": "Graphic4",
+	"GraphicName": "Graphic4.jpg",
 	"CostPrice": "1112.5",
 	"MSRP": "112.5",
 	"QtyOnHand": "5",
@@ -37,7 +37,7 @@
 	"Brand": "Acer"
 }, {
 	"ProductName": "Laptop5",
-	"GraphicName": "Graphic5",
+	"GraphicName": "Graphic5.jpg",
 	"CostPrice": "1112.5",
 	"MSRP": "112.5",
 	"QtyOnHand": "5",
@@ -46,7 +46,7 @@
 	"Brand": "Acer"
 }, {
 	"ProductName": "Laptop6",
-	"GraphicName": "Graphic6",
+	"GraphicName": "Graphic6.jpg",
 	"CostPrice": "1112.5",
 	"MSRP": "112.5",
 	"QtyOnHand": "5",
@@ -55,7 +55,7 @@
 	"Brand": "Lenovo"
 }, {
 	"ProductName": "Laptop7",
-	"GraphicName": "Graphic7",
+	"GraphicName": "Graphic7.jpg",
 	"CostPrice": "1112.5",
 	"MSRP": "112.5",
 	"QtyOnHand": "5",
@@ -64,7 +64,7 @@
 	"Brand": "Lenovo"
 }, {
 	"ProductName": "Laptop8",
-	"GraphicName": "Graphic8",
+	"GraphicName": "Graphic8.jpg",
 	"CostPrice": "1112.5",
 	"MSRP": "112.5",
 	"QtyOnHand": "5",
@@ -73,7 +73,7 @@
 	"Brand": "Acer"
 }, {
 	"ProductName": "Laptop9",
-	"GraphicName": "Graphic9",
+	"GraphicName": "Graphic9.jpg",
 	"CostPrice": "1112.5",
 	"MSRP": "112.5",
 	"QtyOnHand": "5",
@@ -82,7 +82,7 @@
 	"Brand": "Acer"
 }, {
 	"ProductName": "Laptop10",
-	"GraphicName": "Graphic10",
+	"GraphicName": "Graphic10.jpg",
 	"CostPrice": "1112.5",
 	"MSRP": "112.5",
 	"QtyOnHand": "5",
@@ -91,7 +91,7 @@
 	"Brand": "Asus"
 }, {
 	"ProductName": "Laptop11",
-	"GraphicName": "Graphic11",
+	"GraphicName": "Graphic11.jpg",
 	"CostPrice": "1112.5",
 	"MSRP": "112.5",
 	"QtyOnHand": "5",
@@ -100,7 +100,7 @@
 	"Brand": "Asus"
 }, {
 	"ProductName": "Laptop12",
-	"GraphicName": "Graphic12",
+	"GraphicName": "Graphic12.jpg",
 	"CostPrice": "1112.5",
 	"MSRP": "112.5",
 	"QtyOnHand": "5",
@@ -109,7 +109,7 @@
 	"Brand": "Lenovo"
 }, {
 	"ProductName": "Laptop13",
-	"GraphicName": "Graphic13",
+	"GraphicName": "Graphic13.jpg",
 	"CostPrice": "1112.5",
 	"MSRP": "112.5",
 	"QtyOnHand": "5",
@@ -118,7 +118,7 @@
 	"Brand": "Lenovo"
 }, {
 	"ProductName": "Laptop14",
-	"GraphicName": "Graphic14",
+	"GraphicName": "Graphic14.jpg",
 	"CostPrice": "1112.5",
 	"MSRP": "112.5",
 	"QtyOnHand": "5",
@@ -127,7 +127,7 @@
 	"Brand": "Lenovo"
 }, {
 	"ProductName": "Laptop15",
-	"GraphicName": "Graphic15",
+	"GraphicName": "Graphic15.jpg",
 	"CostPrice": "1112.5",
 	"MSRP": "112.5",
 	"QtyOnHand": "5",
