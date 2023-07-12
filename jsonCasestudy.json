@@ -1,137 +1,137 @@
 [{
-	"ProductName": "Laptop1",
+	"ProductName": "Asus 1",
 	"GraphicName": "Graphic1.jpg",
 	"CostPrice": "1112.5",
 	"MSRP": "112.5",
 	"QtyOnHand": "5",
 	"QtyOnBackOrder": "30",
-	"Description": "Asus 1",
+	"Description": "Asus 1 is great laptop and bring the power of a Asus laptop.",
 	"Brand": "Asus"
 }, {
-	"ProductName": "Laptop2",
+	"ProductName": "Lenovo 1",
 	"GraphicName": "Graphic2.jpg",
 	"CostPrice": "1112.5",
 	"MSRP": "212",
 	"QtyOnHand": "7",
 	"QtyOnBackOrder": "20",
-	"Description": "Lenovo 1",
+	"Description": "Lenovo 1 is great laptop and bring the power of a Lenovo laptop.",
 	"Brand": "Lenovo"
 
 }, {
-	"ProductName": "Laptop3",
+	"ProductName": "Lenovo 2",
 	"GraphicName": "Graphic3.jpg",
 	"CostPrice": "1112.5",
 	"MSRP": "212",
 	"QtyOnHand": "7",
 	"QtyOnBackOrder": "20",
-	"Description": "Lenovo 2",
+	"Description": "Lenovo 2 is great laptop and bring the power of a Lenovo laptop.",
 	"Brand": "Lenovo"
 }, {
-	"ProductName": "Laptop4",
+	"ProductName": "Acer 1",
 	"GraphicName": "Graphic4.jpg",
 	"CostPrice": "1112.5",
 	"MSRP": "112.5",
 	"QtyOnHand": "5",
 	"QtyOnBackOrder": "30",
-	"Description": "Acer 1",
+	"Description": "Acer 1 is great laptop and bring the power of a Acer laptop.",
 	"Brand": "Acer"
 }, {
-	"ProductName": "Laptop5",
+	"ProductName": "Acer 2",
 	"GraphicName": "Graphic5.jpg",
 	"CostPrice": "1112.5",
 	"MSRP": "112.5",
 	"QtyOnHand": "5",
 	"QtyOnBackOrder": "30",
-	"Description": "Acer 2",
+	"Description": "Acer 2 is great laptop and bring the power of a Acer laptop.",
 	"Brand": "Acer"
 }, {
-	"ProductName": "Laptop6",
+	"ProductName": "Lenovo 3",
 	"GraphicName": "Graphic6.jpg",
 	"CostPrice": "1112.5",
 	"MSRP": "112.5",
 	"QtyOnHand": "5",
 	"QtyOnBackOrder": "30",
-	"Description": "Lenovo 3",
+	"Description": "Lenovo 3 is great laptop and bring the power of a Lenovo laptop.",
 	"Brand": "Lenovo"
 }, {
-	"ProductName": "Laptop7",
+	"ProductName": "Lenovo 4",
 	"GraphicName": "Graphic7.jpg",
 	"CostPrice": "1112.5",
 	"MSRP": "112.5",
 	"QtyOnHand": "5",
 	"QtyOnBackOrder": "30",
-	"Description": "Lenovo 4",
+	"Description": "Lenovo 4 is great laptop and bring the power of a Lenovo laptop.",
 	"Brand": "Lenovo"
 }, {
-	"ProductName": "Laptop8",
+	"ProductName": "Acer 3",
 	"GraphicName": "Graphic8.jpg",
 	"CostPrice": "1112.5",
 	"MSRP": "112.5",
 	"QtyOnHand": "5",
 	"QtyOnBackOrder": "30",
-	"Description": "Acer 3",
+	"Description": "Acer 3 is great laptop and bring the power of a Acer laptop.",
 	"Brand": "Acer"
 }, {
-	"ProductName": "Laptop9",
+	"ProductName": "Acer 4",
 	"GraphicName": "Graphic9.jpg",
 	"CostPrice": "1112.5",
 	"MSRP": "112.5",
 	"QtyOnHand": "5",
 	"QtyOnBackOrder": "30",
-	"Description": "Acer 4",
+	"Description": "Acer 4 is great laptop and bring the power of a Acer laptop.",
 	"Brand": "Acer"
 }, {
-	"ProductName": "Laptop10",
+	"ProductName": "Asus 2",
 	"GraphicName": "Graphic10.jpg",
 	"CostPrice": "1112.5",
 	"MSRP": "112.5",
 	"QtyOnHand": "5",
 	"QtyOnBackOrder": "30",
-	"Description": "Asus 2",
+	"Description": "Asus 2 is great laptop and bring the power of a Asus laptop.",
 	"Brand": "Asus"
 }, {
-	"ProductName": "Laptop11",
+	"ProductName": "Asus 3",
 	"GraphicName": "Graphic11.jpg",
 	"CostPrice": "1112.5",
 	"MSRP": "112.5",
 	"QtyOnHand": "5",
 	"QtyOnBackOrder": "30",
-	"Description": "Asus 3",
+	"Description": "Asus 3 is great laptop and bring the power of a Asus laptop.",
 	"Brand": "Asus"
 }, {
-	"ProductName": "Laptop12",
+	"ProductName": "Lenovo 5",
 	"GraphicName": "Graphic12.jpg",
 	"CostPrice": "1112.5",
 	"MSRP": "112.5",
 	"QtyOnHand": "5",
 	"QtyOnBackOrder": "30",
-	"Description": "Lenovo 5",
+	"Description": "Lenovo 5 is great laptop and bring the power of a Lenovo laptop.",
 	"Brand": "Lenovo"
 }, {
-	"ProductName": "Laptop13",
+	"ProductName": "Lenovo 6",
 	"GraphicName": "Graphic13.jpg",
 	"CostPrice": "1112.5",
 	"MSRP": "112.5",
 	"QtyOnHand": "5",
 	"QtyOnBackOrder": "30",
-	"Description": "Lenovo 6",
+	"Description": "Lenovo 6 is great laptop and bring the power of a Lenovo laptop.",
 	"Brand": "Lenovo"
 }, {
-	"ProductName": "Laptop14",
+	"ProductName": "Lenovo 7",
 	"GraphicName": "Graphic14.jpg",
 	"CostPrice": "1112.5",
 	"MSRP": "112.5",
 	"QtyOnHand": "5",
 	"QtyOnBackOrder": "30",
-	"Description": "Lenovo 7",
+	"Description": "Lenovo 7 is great laptop and bring the power of a Lenovo laptop.",
 	"Brand": "Lenovo"
 }, {
-	"ProductName": "Laptop15",
+	"ProductName": "Acer 5",
 	"GraphicName": "Graphic15.jpg",
 	"CostPrice": "1112.5",
 	"MSRP": "112.5",
 	"QtyOnHand": "5",
 	"QtyOnBackOrder": "30",
-	"Description": "Acer 5",
+	"Description": "Acer 5 is great laptop and bring the power of a Acer laptop.",
 	"Brand": "Acer"
 }]
